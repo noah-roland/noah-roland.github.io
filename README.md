@@ -5,7 +5,6 @@ Welcome to my personal developer portfolio! This site showcases my journey as a 
 ## Live Site
 
 [View Live Portfolio](https://noah-roland.github.io/)  
-*Replace this link with your actual GitHub Pages or Netlify/Vercel deployment*
 
 ---
 
