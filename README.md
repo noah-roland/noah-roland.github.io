@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This site showcases my journey as a 
 
 ## Live Site
 
-[View Live Portfolio](https://your-username.github.io/noah-roland.github.io/)  
+[View Live Portfolio](https://noah-roland.github.io/)  
 *Replace this link with your actual GitHub Pages or Netlify/Vercel deployment*
 
 ---
@@ -21,7 +21,7 @@ Welcome to my personal developer portfolio! This site showcases my journey as a 
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3 (Flexbox & Media Queries)
@@ -31,7 +31,7 @@ Welcome to my personal developer portfolio! This site showcases my journey as a 
 
 ---
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 - Improved my understanding of CSS layout and responsive design
 - Learned how to structure a project with reusability and clarity
@@ -40,7 +40,7 @@ Welcome to my personal developer portfolio! This site showcases my journey as a 
 
 ---
 
-## 🗺️ Next Steps
+## Next Steps
 
 - Add more projects as I complete them
 - Integrate JavaScript-driven UI components
@@ -50,7 +50,7 @@ Welcome to my personal developer portfolio! This site showcases my journey as a 
 
 ---
 
-## 📬 Contact
+## Contact
 
 You can reach me through the contact form on the site or via:
 - [GitHub](https://github.com/noah-roland)
